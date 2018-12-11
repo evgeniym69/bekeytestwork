@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'Righteous-Regular';
+  src: url('Righteous-Regular.eot');
+  src: url('Righteous-Regular.woff2') format('woff2'),
+       url('Righteous-Regular.woff') format('woff'),
+       url('Righteous-Regular.svg#Righteous-Regular') format('svg'),
+       url('Righteous-Regular.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+

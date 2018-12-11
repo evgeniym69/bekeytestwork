@@ -1,0 +1,47 @@
+@font-face {
+  font-family: 'RighteousRegular';
+  src: url('../fonts/Righteous-Regular/Righteous-Regular.eot');
+  src: url('../fonts/Righteous-Regular/Righteous-Regular.woff2') format('woff2'),
+       url('../fonts/Righteous-Regular/Righteous-Regular.woff') format('woff'),
+       url('../fonts/Righteous-Regular/Righteous-Regular.svg#Righteous-Regular') format('svg'),
+       url('../fonts/Righteous-Regular/Righteous-Regular.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PhilosopherBold';
+  src: url('../fonts/Philosopher/Philosopher-Bold/Philosopher-Bold.eot');
+  src: url('../fonts/Philosopher/Philosopher-Bold/Philosopher-Bold.woff2') format('woff2'),
+       url('../fonts/Philosopher/Philosopher-Bold/Philosopher-Bold.woff') format('woff'),
+       url('../fonts/Philosopher/Philosopher-Bold/Philosopher-Bold.svg#Righteous-Regular') format('svg'),
+       url('../fonts/Philosopher/Philosopher-Bold/Philosopher-Bold.eot?#iefix') format('embedded-opentype');
+}
+
+@font-face {
+  font-family: 'PhilosopherBoldItalic';
+  src: url('../fonts/Philosopher/Philosopher-BoldItalic/Philosopher-BoldItalic.eot');
+  src: url('../fonts/Philosopher/Philosopher-BoldItalic/Philosopher-BoldItalic.woff2') format('woff2'),
+       url('../fonts/Philosopher/Philosopher-BoldItalic/Philosopher-BoldItalic.woff') format('woff'),
+       url('../fonts/Philosopher/Philosopher-BoldItalic/Philosopher-BoldItalic.svg#Righteous-Regular') format('svg'),
+       url('../fonts/Philosopher/Philosopher-BoldItalic/Philosopher-BoldItalic.eot?#iefix') format('embedded-opentype');
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'PhilosopherItalic';
+  src: url('../fonts/Philosopher/Philosopher-Italic/Philosopher-Italic.eot');
+  src: url('../fonts/Philosopher/Philosopher-Italic/Philosopher-Italic.woff2') format('woff2'),
+       url('../fonts/Philosopher/Philosopher-Italic/Philosopher-Italic.woff') format('woff'),
+       url('../fonts/Philosopher/Philosopher-Italic/Philosopher-Italic.svg#Righteous-Regular') format('svg'),
+       url('../fonts/Philosopher/Philosopher-Italic/Philosopher-Italic.eot?#iefix') format('embedded-opentype');
+}
+
+@font-face {
+  font-family: 'PhilosopherRegular';
+  src: url('../fonts/Philosopher/Philosopher-Regular/Philosopher-Regular.eot');
+  src: url('../fonts/Philosopher/Philosopher-Regular/Philosopher-Regular.woff2') format('woff2'),
+       url('../fonts/Philosopher/Philosopher-Regular/Philosopher-Regular.woff') format('woff'),
+       url('../fonts/Philosopher/Philosopher-Regular/Philosopher-Regular.svg#Righteous-Regular') format('svg'),
+       url('../fonts/Philosopher/Philosopher-Regular/Philosopher-Regular.eot?#iefix') format('embedded-opentype');
+}

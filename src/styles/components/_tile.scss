@@ -1,0 +1,39 @@
+/*tile*/
+
+@media screen and (min-width: 1610px){
+  .content-wrapper {
+    padding: 0 150px;
+
+  }
+}
+
+
+@media screen and (max-width: 600px){
+  .common-list{
+    margin-right: 20px;
+  }
+
+  .inner-list{
+    right: 149px;
+  }
+}
+
+@media screen and (max-width: 430px){
+  header{
+    height: 130px;
+  }
+
+  .header-logo{
+    margin-left: 33%;
+  }
+
+  .common-list{
+    width: 100%;
+    text-align: center;
+    float: none;
+  }
+
+  .inner-list{
+    top: 131px;
+  }
+}

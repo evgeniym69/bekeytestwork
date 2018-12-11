@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.js"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"../js/app.js","sourcesContent":["//Equal height\r\n//Decision with jQuery\r\n\r\n/*$(document).ready(function(){\r\n  $(function() {\r\n      $('.content-block').matchHeight();\r\n  });\r\n});*/\r\n"]}
